@@ -15,7 +15,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/cartoon.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_screenshot: yes
