@@ -16,7 +16,7 @@ jobs:
         with:
           filename: Images/Dynamic/cartoon.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Cartoon of the day
@@ -30,7 +30,7 @@ jobs:
         with:
           filename: Images/Dynamic/joke.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Joke of the day
@@ -44,7 +44,7 @@ jobs:
         with:
           filename: Images/Dynamic/meme.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Meme of the day
@@ -58,7 +58,7 @@ jobs:
         with:
           filename: Images/Dynamic/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: header, activity, community, repositories
           plugin_lines: yes
       # notable contributions
@@ -67,7 +67,7 @@ jobs:
         with:
           filename: Images/Dynamic/contribs.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_notable: yes
       # isocalendar
@@ -76,7 +76,7 @@ jobs:
         with:
           filename: Images/Dynamic/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_isocalendar: yes
       # languages
@@ -85,7 +85,7 @@ jobs:
         with:
           filename: Images/Dynamic/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: python
@@ -100,7 +100,7 @@ jobs:
         with:
           filename: Images/Dynamic/topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_topics: yes
           plugin_topics_sort: stars
@@ -111,7 +111,7 @@ jobs:
 #         with:
 #           filename: Images/Dynamic/mastered.svg
 #           token: ${{ secrets.METRICS_TOKEN }}
-#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+#           committer_token: ${{ secrets.GIT_TOKEN }}
 #           base: ""
 #           plugin_topics: yes
 #           plugin_topics_sort: stars
@@ -123,7 +123,7 @@ jobs:
         with:
           filename: Images/Dynamic/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_habits: yes
           plugin_habits_from: 200 
@@ -137,7 +137,7 @@ jobs:
         with:
           filename: Images/Dynamic/issuesPRs.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_followup: yes
           plugin_followup_sections: repositories, user
@@ -147,7 +147,7 @@ jobs:
         with:
           filename: Images/Dynamic/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: C       
@@ -160,7 +160,7 @@ jobs:
         with:
           filename: Images/Dynamic/website.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
@@ -170,7 +170,7 @@ jobs:
         with:
           filename: Images/Dynamic/reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 200 
