@@ -106,17 +106,17 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_limit: 0
       # mastered
-#       - name: mastered
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: Images/Dynamic/mastered.svg
-#           token: ${{ secrets.GIT_TOKEN }}
-#           committer_token: ${{ secrets.GIT_TOKEN }}
-#           base: ""
-#           plugin_topics: yes
-#           plugin_topics_sort: stars
-#           plugin_topics_mode: mastered
-#           plugin_topics_limit: 0 
+      - name: mastered
+        uses: lowlighter/metrics@latest
+        with:
+           filename: Images/Dynamic/mastered.svg
+           token: ${{ secrets.GIT_TOKEN }}
+           committer_token: ${{ secrets.GIT_TOKEN }}
+           base: ""
+           plugin_topics: yes
+           plugin_topics_sort: stars
+           plugin_topics_mode: mastered
+           plugin_topics_limit: 0 
       # coding habits
       - name: coding habits
         uses: lowlighter/metrics@latest
