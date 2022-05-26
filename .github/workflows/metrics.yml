@@ -29,7 +29,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/joke.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_screenshot: yes
@@ -43,7 +43,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/meme.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_screenshot: yes
@@ -57,7 +57,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: header, activity, community, repositories
           plugin_lines: yes
@@ -66,7 +66,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/contribs.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_notable: yes
@@ -75,7 +75,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_isocalendar: yes
@@ -84,7 +84,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -99,7 +99,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/topics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_topics: yes
@@ -110,7 +110,7 @@ jobs:
 #         uses: lowlighter/metrics@latest
 #         with:
 #           filename: Images/Dynamic/mastered.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
+#           token: ${{ secrets.GIT_TOKEN }}
 #           committer_token: ${{ secrets.GIT_TOKEN }}
 #           base: ""
 #           plugin_topics: yes
@@ -122,7 +122,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -136,7 +136,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/issuesPRs.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_followup: yes
@@ -146,7 +146,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -159,7 +159,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/website.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_pagespeed: yes
@@ -169,7 +169,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/reactions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_reactions: yes
