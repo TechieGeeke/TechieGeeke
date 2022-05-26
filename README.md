@@ -1,34 +1,11 @@
 <p align="center">
-  <br><br>
   <a href="https://tarun-kamboj.github.io/">
     <img width="400" src="https://readme-typing-svg.herokuapp.com/?duration=5000&font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=TechieGeeke">
     <br>
-    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=520&height=100&lines=The+Technical+Geek;Official+Page;Web+Developer">
   </a>
-  <br><br>
-  <a href="https://Tarun-Kamboj.github.io">
-    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/kambojtarun">
-    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
-  </a>
-  <a href="mailto:kambojtarun02@gmail.com">
-    <img height="40px" src="Images/Static/gmail.png" title="Mail">
-  </a>
-  <a href="https://twitter.com/TarunKamboj_">
-    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
-  </a>
-  <a href="https://wa.me/919466416667">
-    <img height="40px" src="Images/Static/whatsapp.png" title="WhatsApp">
-  </a>
-  <a href="https://discord.com/users/724826268645851157">
-    <img height="40px" src="Images/Static/discord.png" title="Discord">
-  </a>
-  <br><br>
+
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
   <br><br><br><br>
-  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
-  <img height="45px" src="Images/Static/stats.png">
   <hr>
 </p>
 <p align="center">
