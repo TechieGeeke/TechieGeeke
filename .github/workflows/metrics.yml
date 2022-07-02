@@ -226,8 +226,9 @@ jobs:
       - name: Top answers from stackoverflow
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.stackoverflow.svg
+          filename: Images/Dynamic/stackoverflow.svg
           token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 1
@@ -237,8 +238,9 @@ jobs:
       - name: Favorites anime and currently watching
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.svg
+          filename: Images/Dynamic/anime.svg
           token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime
@@ -248,14 +250,26 @@ jobs:
       - name: Favorites manga and currently reading
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.manga.svg
+          filename: Images/Dynamic/manga.svg
           token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_anilist: yes
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, reading
           plugin_anilist_limit: 1
-        
+      # characters
+      - name: Favorites characters
+        uses: lowlighter/metrics@latest
+        with:
+         filename: Images/Dynamic/character.svg
+         token: NOT_NEEDED
+         committer_token: ${{ secrets.GIT_TOKEN }}
+         base: ""
+         plugin_anilist: yes
+         plugin_anilist_sections: characters
+         plugin_anilist_limit_characters: 22
+
 
 
 
