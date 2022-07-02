@@ -154,6 +154,29 @@ jobs:
           plugin_achievements_secrets: yes   
           plugin_achievements_limit: 0
           plugin_achievements_display: compact
+      # activity
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/activity.svg
+          token: ${{ secrets.GIT_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+      # Snippet of the day
+      - name: JavaScript or TypeScript snippet of the day
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/snippet.svg
+          token: ${{ secrets.GIT_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript, python
+          plugin_code_load: 400
       # followers
       - name: Followers
         uses: lowlighter/metrics@latest
