@@ -160,6 +160,7 @@ jobs:
         with:
           filename: Images/Dynamic/people.svg
           token: ${{ secrets.GIT_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_people: yes
           plugin_people_types: followers
