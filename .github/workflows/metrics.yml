@@ -262,27 +262,60 @@ jobs:
       - name: Favorites characters
         uses: lowlighter/metrics@latest
         with:
-         filename: Images/Dynamic/character.svg
-         token: NOT_NEEDED
-         committer_token: ${{ secrets.GIT_TOKEN }}
-         base: ""
-         plugin_anilist: yes
-         plugin_anilist_sections: characters
-         plugin_anilist_limit_characters: 22
+          filename: Images/Dynamic/character.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
       # tweets
       - name: Latest tweets including attachments
         uses: lowlighter/metrics@latest
         with:
-         filename: metrics.plugin.tweets.attachments.svg
-         token: NOT_NEEDED
-         committer_token: ${{ secrets.GIT_TOKEN }}
-         base: ""
-         plugin_tweets: yes
-         plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-         plugin_tweets_attachments: yes
-         plugin_tweets_user: github
-         plugin_tweets_limit: 1
-
+          filename: Images/Dynamic/tweets.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes
+          plugin_tweets_user: github
+          plugin_tweets_limit: 1
+      # articles
+      - name: Recent posts with descriptions and cover images
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/articles.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_limit: 2
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+      # apple music
+      - name: Apple Music - Random track from playlist
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/apple.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_playlist: https://embed.music.apple.com/fr/playlist/usr-share/pl.u-V9D7m8Etjmjd0D
+          plugin_music_limit: 2
+      # spotify
+      - name: Spotify - Random track from playlist
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.music.playlist.spotify.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/3nfA87oeJw4LFVcUDjRcqi
 
 
 
