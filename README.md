@@ -19,10 +19,15 @@
    <img width="100%" src="Images/Dynamic/issuesPRs.svg">
    <img width="100%" src="Images/Dynamic/contribs.svg">
    <img width="100%" src="Images/Dynamic/languages.svg">
+   <img width="100%" src="Images/Dynamic/featured.svg">
    <img width="100%" src="Images/Dynamic/topics.svg">
    <img width="100%" src="Images/Dynamic/achievements.svg">
    <img width="100%" src="Images/Dynamic/people.svg">
    <img width="100%" src="Images/Dynamic/reactions.svg">
    <img width="100%" src="Images/Dynamic/snippet.svg">
+   <img width="100%" src="Images/Dynamic/stackoverflow.svg">
+   <img width="100%" src="Images/Dynamic/anime.svg">
+   <img width="100%" src="Images/Dynamic/manga.svg">
+   <img width="100%" src="Images/Dynamic/character.svg">
    <br><br><br>
    <!--  -->
