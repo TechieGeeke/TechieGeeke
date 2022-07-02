@@ -21,6 +21,7 @@
    <img width="100%" src="Images/Dynamic/topics.svg">
    <img width="100%" src="Images/Dynamic/achievements.svg">
    <img width="100%" src="Images/Dynamic/people.svg">
+   <img width="100%" src="Images/Dynamic/activity.svg">
    <img width="100%" src="Images/Dynamic/reactions.svg">
    <br><br><br>
    <!--  -->
