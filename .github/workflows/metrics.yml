@@ -310,17 +310,19 @@ jobs:
       - name: Spotify - Random track from playlist
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.music.playlist.spotify.svg
+          filename: Images/Dynamic/spotify.svg
           token: NOT_NEEDED
           committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_music: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/3nfA87oeJw4LFVcUDjRcqi
       # Youtube
-      - name: Youtube Music - Random track from playlist
+      - name: Youtube Music
         uses: lowlighter/metrics@latest
         with:
+          filename: Images/Dynamic/youtube.svg
           token: NOT_NEEDED
+          committer_token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_music: yes
           plugin_music_playlist: >-
