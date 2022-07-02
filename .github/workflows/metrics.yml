@@ -200,3 +200,62 @@ jobs:
           plugin_reactions_limit_issues: 100  
           plugin_reactions_days: 100
           plugin_reactions_details: count, percentage
+      # Skyline
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/skyline.svg
+          token:  ${{ secrets.GIT_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2020
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
+      # Featured
+      - name: Featured repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/featured.svg
+          token: ${{ secrets.GIT_TOKEN }}
+          committer_token: ${{ secrets.GIT_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: lowlighter/metrics
+      # Stack Overflow
+      - name: Top answers from stackoverflow
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stackoverflow.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
+      # anime
+      - name: Favorites anime and currently watching
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
+      # manga
+      - name: Favorites manga and currently reading
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.manga.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 1
+        
+
+
+
