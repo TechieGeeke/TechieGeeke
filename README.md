@@ -15,13 +15,13 @@
    <br><br>
    <img width="100%" src="Images/Dynamic/isocalendar.svg">
    <img width="100%" src="Images/Dynamic/habits.svg">
+   <img width="100%" src="Images/Dynamic/activity.svg">
    <img width="100%" src="Images/Dynamic/issuesPRs.svg">
    <img width="100%" src="Images/Dynamic/contribs.svg">
    <img width="100%" src="Images/Dynamic/languages.svg">
    <img width="100%" src="Images/Dynamic/topics.svg">
    <img width="100%" src="Images/Dynamic/achievements.svg">
    <img width="100%" src="Images/Dynamic/people.svg">
-   <img width="100%" src="Images/Dynamic/activity.svg">
    <img width="100%" src="Images/Dynamic/reactions.svg">
    <img width="100%" src="Images/Dynamic/snippet.svg">
    <br><br><br>
