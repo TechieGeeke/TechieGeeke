@@ -29,5 +29,11 @@
    <img width="100%" src="Images/Dynamic/anime.svg">
    <img width="100%" src="Images/Dynamic/manga.svg">
    <img width="100%" src="Images/Dynamic/character.svg">
+   <img width="100%" src="https://profile-counter.glitch.me/TechieGeeke/count.svg">
+   <img width="100%" src="Images/Dynamic/manga.svg">
+   <img width="100%" src="Images/Dynamic/articles.svg">
+   <img width="100%" src="Images/Dynamic/apple.svg">
+   <img width="100%" src="Images/Dynamic/youtube.svg">
+   <img width="100%" src="Images/Dynamic/spotify.svg">
    <br><br><br>
    <!--  -->
