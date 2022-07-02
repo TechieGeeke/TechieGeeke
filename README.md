@@ -20,7 +20,7 @@
    <img width="100%" src="Images/Dynamic/languages.svg">
    <img width="100%" src="Images/Dynamic/topics.svg">
    <img width="100%" src="Images/Dynamic/achievements.svg">
+   <img width="100%" src="Images/Dynamic/people.svg">
    <img width="100%" src="Images/Dynamic/reactions.svg">
-   <img width="100%" src="Images/Dynamic/website.svg">
    <br><br><br>
    <!--  -->
