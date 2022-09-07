@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.4393406621545" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="278.4393406621545" y="0" width="122.20052913918109" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="400.6398698013356" y="0" width="39.68185374942481" height="8" fill="#7d6cff"/>
-                    <rect mask="url(#languages-bar)" x="440.3217235507604" y="0" width="19.655758285968624" height="8" fill="#ff3a3a"/>
-                    <rect mask="url(#languages-bar)" x="459.977481836729" y="0" width="0.022518163270992916" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.4685974950886" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="278.4685974950886" y="0" width="122.18083764610915" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="400.6494351411978" y="0" width="39.67545938310175" height="8" fill="#7d6cff"/>
+                    <rect mask="url(#languages-bar)" x="440.3248945242995" y="0" width="19.65259094102472" height="8" fill="#ff3a3a"/>
+                    <rect mask="url(#languages-bar)" x="459.97748546532426" y="0" width="0.022514534675771875" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>60.53%</div>
+                                <div>60.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -72,7 +72,7 @@
                                 EJS
                             </div>
                             <small>
-                                <div>26.57%</div>
+                                <div>26.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
