@@ -23,17 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBQcBAgT/xAAsEAABAwIFAwMDBQAAAAAAAAABAAIDBBEFEiExQQYTUSJxoQdCUmGBkcHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAwH/xAAdEQACAgMBAQEAAAAAAAAAAAAAAQIDERIhBBMx/9oADAMBAAIRAxEAPwBMo5i57dfnZOuARtMzLTwnXyVlNDiAzC5P8rT+gJqaSdjagB1TIxzoI+LtBdd3kG1gP3VFNtZRK9NXDXMJjDIGXtISPt/1V3UEhpnSERfAV3hVbTy0zauNsLaV3py5AC1/4f3fx+qXvqJU08dM98bgJo2gvZ5BG49r2Kxr2+mGifZSnDgjYziBdchrQUJCxnGRncLlCZc8DVfjepntLOQ4amyfulMalp8QgmjniBieC/uRNuGjwbeNPKzWJ9juvfT1ZDbEmx3AO6Xqngs3U7o36k6/qoqvsGOnNCHZe02FgFuXbb8pT606xq66vcXzwhrnuyNjjbmyk8utp8lIz8cn7LY8x7Qbe3N9t91Tz1ZLcvqy6kA8LaU4r8QtDyd6c11YXvccxOvlCq5XXKEpKWWPqCSOjfdSB9rIQgTwGTiodktc3G2vCje653CELuzBwQOHKEIQsI//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Equal In Death</div>
-                                    <div class="artist">Horizon Ignited</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAj/xAAtEAACAQMDAgYBAwUAAAAAAAABAgMEBREAEiEGQRMUIjFRYXEHMoEzQkOR0f/EABkBAAIDAQAAAAAAAAAAAAAAAAACAQMEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAhEDIRITMQRSof/aAAwDAQACEQMRAD8Apusr57jXNVSV9bLdpuJKiaX2XJyqnPKkH5ONcsVlhEm+ad0jjJaVtnJX6Ge/b513dJUiXWuhE1QTDGxkMAbw+/PqyAp+xzpqt9NTLQSrUURaGeULTyeMGMPOGL852sMHBxnHbVrVPRshmxqCUo2xVmqIjSiCjuVzEIY7U8VgqphQQEBIORjuB21EtanpyXaWURFv7kyGYfg4zpotNEKud0oEjLSq606IS7RLnbv/ADsTjvlsjWV2Wgjols0ahJPMIs1QuAQxI4XjOFGcn5POlpkrLh+n6QUM1XDdKM2molNekhEcsbkP6jgKc9uxxxg6NStuoIKeqrDbZp6oho1D4BkWPlmdce5ATPHOBo03FLTKMkuyTa0abDbJai20qeaigjSSXxpDwEPpxwByMBsfJGO4132uejkvs6UpV6elVY6OOUArksBvI9txAZj8k47asDoHom01rwz0dbb7lSo/9VhgoRjIVSPfPfnTb1T+n9vrrHVxQ5FZMuIsQJEgYYIZyoyfzpHON0Imn6VPaLTdkopKi2U4mrFqZfNF9iFQP2E5IwMHsOdRiW3ZShrjRTTeVn8OKpp2BUsy5KFgDuGfZhz2+NNi9Ddf0KRqJ1qYUwF8KcFWH3uxn/ereWDp3p+jjevlhlkZQHV1DGVsDPpxj3HBA/nnRLJXmws8/dM2+otUvmLpC8cLECJFQGRgvLOCORhSx/nRq2OoPK1kk9xlgNPS+AkNJCkQRmw24qq9gSACfgnOjSudkIpOy3uv6bnqKRbiY0LeqNQDG7j7B+O47aabH1ndpmllqa4ZjYLFHHCXLs2QAMcZ47nJ0aNLyOhDFBxdo21PWMhIO2vqJH/xs2wYJwBhTn/uou43a+LVilo7bU0bSA7IY6ZhM44J9RBb49tGjQ5MsXx8cX4Ffcb3b6VZbuKyKJkWHY8JiRfpnI4J+vfRo0ajkzN1xP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Sakura Omen</div>
                                     <div class="artist">Whispered</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBAYCBwj/xAAuEAACAQMDAgQGAQUAAAAAAAABAgMABBEFEiETMQYHFEEiMkJRYZEVUnGBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwDzla+FPEF3BazWui6jLDdcwSJAxWQduDimMHl74lljkf0MSLEzq/UuogVKAFuN2eAy+31D70yi8yby20OxsLO0WGa3tPSPciZg8qiWKRRlQCAOlgDJI3NgjgVWvPMfW5tSu7q1W0tPU790ccW4fHHGjctkkkRIcnnOT70Fubyo8SxTPbPZPHexIJJY5WjQKpLAYO/J+RjwO2D70t0ny/1zUpIkjS3h6tvHdIZZPmjdmCkAAn6G478VqWXzH8TWV1qKX0Vw11CsNwi3UKytEm7BIJzj4mHBzjuMV15PqmrQMbd9SusIiw4S5JUIhyq8HGAeQPY0qNLr/ljr+h+HpdauzZtZRJHI/SmywV32KcY92BH+KKxvrLnoyReom6UmN6bztfHIyM80UEFMNH0yTVbuO2t5oVnkYKiPuyx/GAaX1NbRzSyhLZXaRuMICT/qkK2195dTWNmnV1vSP5MyhTarcZ2r9y396x+p2LafdPBLNG8qMQwQNx+wKktNJvLydoraNZHUMSd4AwO/JOKpSIyn4sn2z7fulVwoooogphbazqNtB0be7kij/pTA/wCUUUDFfEWfDlzptxAJZZZA6ueAvGM4Hv3/AHS611S5gjKdeUKYzDgEfJ328jtRRUxrq27VVmh2narbvz2ooooWv//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Chop Suey!</div>
+                                    <div class="artist">System Of A Down</div>
                                 </div>
                             </div>
                         </div>
