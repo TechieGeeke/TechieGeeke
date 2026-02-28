@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="142" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="57" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -11,31 +11,14 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
-                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field">
+                        <div class="field error">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                             </svg>
-                            From Apple Music
-                        </div>
-                        <div class="tracklist">
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBQYHAwj/xAAsEAACAQMCBAQGAwAAAAAAAAABAgMABBESIQUGMUETUWGBByIycZGhF7HR/8QAGgEAAQUBAAAAAAAAAAAAAAAAAgEDBAUGAP/EACERAAEDBQACAwAAAAAAAAAAAAEAAgQDERITMSEiQUJh/9oADAMBAAIRAxEAPwDy9AryyBUAJ9Tj+67yW9yjBTDIT6KacR8OcOSYyQN9+hqSltLy5QEzFthjB6Dy26VHdVaD1WDI9RMha3EcIDACVjsh8sefTO3SkLBcMW8SN109dSnbtVktLfiEnC5IgzMqMCWH1acEYz171FFLq1dhGWCtnUCNQYetNCq0mwT+l7fJTCe3kibw5BhiA3sftRThIS7aNIj1H1xRS5gLtRPmy02x5bRrlfFjAVtsdsVZLbk+2SAtHEs2dgqZJz2+35rKV54vET5ZpT7Cn0PxL4xbx6LWNAo7yHf9VS1IUx3CFbmfFt6q8RcKl4bepBxOxlisZ2WGOVlUBnOflZtWBt0PtSuJckOrvJHbF1Jyq6s7VmLc58w3nFLS8u+IPK9rJ40KNjQjeYXpn161dbT4t8VDg3TNkd0b/aSvFlssWEE/KClLpPvlz9UtZcg3dxMNFkxY7hR2orv/ADRcxRKR4rvn6WwP2KKiFs8/VPbqY5isEjxncVJxXlokCRycPR3WNlMmsglichtu4G2OlFFastB6syCRxdYr3h4STVw4ayflxKcAZP56ge1IlvLVkbTZKjFcAiQnB233+x/NFFBgEew2TPxMdN8+VFFFFiEORX//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Am the Abyss</div>
-                                    <div class="artist">Shylmagoghnar</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcBCP/EADAQAAIBAwMCBAQFBQAAAAAAAAECAwAEEQUSIQYTMTJBYQciUXEUFSRCgSNSobHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQIF/8QAHxEAAwABBAMBAAAAAAAAAAAAAAECEQMEEiETIlEx/9oADAMBAAIRAxEAPwDztHo7MvlNRTaSyA8EGtpsukd1kJduf9Uk1fp/Y+0RgYP1p7wab6TOct7We56M70bSne4hTaSWYf5prrGmfqTFApZY2KLj9z/uP2HhVw0XSWfVFSP+nI3yo+M7SQQD/BqvNdvYzoJZdl5CxhkhcfKCOCft7+IpekpfEPOq79kVu6078IAZFLLna2D5vQiinlwi6iBa6ejPNIAWjc/OuD/d4HP18xwB6UUNhlX03SDW9QtOlNTj0OO3fVWj/T92MSc5yVAPGSOPvWeR9Q3eom2fUpBbSx7luLZrcRbjzy2eVwBxggfWp4dZWGORA5BBxRYM3UNxeW8byzXC25nWNXx3SrKChz6kHj39iaNqQ5zSEtvaeIpEHRuoXd1qpF1ZyRdh9pn8Fl+bHA9DxngkVz4qaEv54t2sqW8U6mXuFfFvKwzkYHr/ADR0zaTSWDTWcomuYJt3ckXCmIs2X2DBLDKZXgDNOuoL651XRr+2Lr+Z6bEt5DLGoBkjYFZBjJHHsSMUtVeyYwo4t4MhO1roCSdQwJWO4Y44HOTjkexorstsO4sg3BHbcrnjcuT4A+2PEUUQMlki1PU3E/nba6j/AJV4+EzTjTOodUaC4lhSAQR9oeL5BIJwcDB3fcCiis3Tf6VwSXR1L9rN4OzMxOHCx7QfOpDL4c4O48+p5phprW+mataXdpJdX7tvjvHkj2qyOoyCSB9MAe/FFFVSJXwqGs6TdLNLbwBRDFI3acg7imeOMcHFFFFaTeDSP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">桃源郷エイリアン</div>
-                                    <div class="artist">serial TV drama</div>
-                                </div>
-                            </div>
+                            Unexpected error
                         </div>
                     </section>
                 </div>
