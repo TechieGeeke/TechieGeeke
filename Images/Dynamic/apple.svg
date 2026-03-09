@@ -23,17 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCAwEEBgf/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMABBEFEiExQRMiUXEUI2GBoTJCkbHBYv/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAQQGAv/EACURAAICAQIEBwAAAAAAAAAAAAECABEDBCISEyExBUFRYXGh8P/aAAwDAQACEQMRAD8A87t7Oz+EiaeVxM+/cFwdvQLx1Pcn0GKILG3KTtK2CoXwxu/W2QD7DGTUUBaCKQxklgdv/XOMVs2zROieIPmE4V1ZWQ+mVzuH2GParWXOFLBmPt++oZMXQGpC5022E0iwzB1U4Vtw6ep9ParH03Txd4W5Zrc7fNkBhxls/wBCq7adxq0yy2mzSHXHxjABQMdyD139uvat97GKaxllhlXOdpfI2r0wQudx+4AH1qni1LVvciHZFJ2LcSXtvbxW6vExMhYhl3g4Hbp1/FFRvwqkqitgH9R70U60j8ePiu4u1Gx6IqSiuvk2cC52ozbj25x/tMNLS3t9bRmDh2hBAPTJycfxzVraUl1aQtpySIi4G1jznG7nPPWt6BUu1u7os6yARsoxnOPLj6cj+KyWbVc5SgmhTDyt3pGK2tnb2ce5N95Lcm78IcnZkqGIPGcj3pHrF8GvpvC6FdjEfu5B5/NOrhVdYriNcXSDcrxuCMbldgQBk8nGDzxSOe1u5rsCBA7+b5jgjcCARwegIINcEqrq/eoPBxMGU+ZnP3BkjmeN1OHywz29P9oro9Y0vxtP09bPMh2M0kmMnykg/wB0Uz0XimNUIc11gdRomZrE7uO3svhrhZJBDcSEyKCMDgAcH2pfpmki10rVHaNmdwFjw2V4zxwecZz96KKxnNfHdHvUbsLq4aVFHG8Mcjq7Iu1USEk+bHl3ZxyAPTGKzBpotbtrhbS4a3jkkHhqNu0H6YyTx39s0UVbyZWA+YJMYDdJgX2mxWSiFjDKjFW3NgefOfz2oooqBhWGYkT/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Only for the Weak</div>
+                                    <div class="artist">In Flames</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFCAEEBgP/xAAyEAABAgUBBAcIAwAAAAAAAAABAgMABAUGESEHEjFBFBYyUVWU0RMVIiNSYXGRYnKB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAbEQADAQEBAQEAAAAAAAAAAAAAAQIRAyExEv/aAAwDAQACEQMRAD8Arb1puDx2q+cc9YyLpuDOtdqvnHPWIcAk4HGNqmNhypSza0ghTqUlJOOcZvEdS14dI5cdWaSp81G4ejLT8sqnHBg/2zg6/bX7REdabg8dqvm3PWLV3SaVUNlqmGLLmWwtC2ULVLoQppQGjhOd7Gef5iosrJzE2841LMrdWhKnFBI7KUglRPcAATC+fT9h3zcG/wBabg8dqvm3PWCIaCGCz3lG1OzTSEuoaUpQAWtW6lJ7yeX5h60DZqztDt1ma98SkleDBIcLakuNTSB2FKUgn5h5rHHmM5MISGLsdtu6atW25225tVMYl1guzq1ENj+OB2zjl+8QHR4t3BnP15hNiZq868LbK6w3dryhIrknG0hCBkDe3sb2AMqznGMcgI67aTbNj2fbc5SKHPJkqjNJQ1NzrilPFSElKlIAB03ikHAHHAOBkwx2rhp85UZmmTM1KtXEiXLAnWm0+1Lf1IJ1UjOu6eH34xXTahs8uSizMxVJ6Y98Sa1FSp1vOQD9STqn/Mgd8TRabxeFPRPNfovJwS6ZlwSanVy4PwKdSEqI7yASB+MmCNeCLCImuqtw+BVbybnpDcp9212jbOpCiUa1Km1PtpUl1fQXN3Oe0TjUnjBBA1CvEw5pzuCxcpV3uVQ1JVLrfTt/f9t0Vzez+oaEhfd2G0ajSqrbFUmJh5hTbTnQVlOSMZIxpprzggjlc5r6jR0qfgoeqtw+A1bybnpBBBBgH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Bu-Ikikaesu!!</div>
                                     <div class="artist">MAXIMUM THE HORMONE</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwUD/8QALBAAAgEDBAAFAwQDAAAAAAAAAQIDAAQRBRIhMQYTQVFxFCIyFkNhkaHB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAGhEBAQEBAQEBAAAAAAAAAAAAAQACETEDIf/aAAwDAQACEQMRAD8AwmxtXku4I02AkA5ZQcHGcmr/AErw6uqmJZnLsp27yvGR1x1UbosgGpooI2kL6genua3/AMHX+k2ejoZo1iX7juJAJb596y/XSeWvBRf6Du1tplTySVPGEwcfPpxU5eaG2kTJBc2qOXGFAbJHxmt4XxBon0hMTKAOXI7x81kfjfUori/a8jJRf2gewvualjeu8Z0OdoLUY4VkZEjlhKqcrnjdRS93qLTXMxZgcgtRWw8oKXOtZxDLEDjmP7sdniqjQr+eSRdPkYtbO+5cn8W9M/IqEaYLIrLnO0elMpezNJvSQq/ZHAoaz0iNsk0Pl27rCQWC7glROvm/mLlo23bgm316J/1SthrN3LEQHbztvDZ7pK51bUkCrO86RFs78HOP4qWM8ZnXS5lxBPbSuZ02syNgHvFFLTTGdiTNJIFVvyXGB/dFXKTLkcBm66FeimLhsHf/AHRRXRuhZ3P08glyXI9lqng8SrfWb2ciNuVPtB6/z1RRU0/Zh5St2GyR5cKnn8f+0UUU5K3/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Dusk Over Fields of Ruin</div>
-                                    <div class="artist">Duskmourn</div>
                                 </div>
                             </div>
                         </div>
