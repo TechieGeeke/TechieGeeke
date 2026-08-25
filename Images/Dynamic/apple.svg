@@ -23,17 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwYEB//EACkQAAIBAwMDAgcBAAAAAAAAAAECAwAEEQUSIRMxQSJRBhQyQmFxgaH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABwRAQEAAgIDAAAAAAAAAAAAAAEAAhEhIjFRcf/aAAwDAQACEQMRAD8A8xjtUjVW2qRnOc5q5nkErYhXYOQQQaWrduYwjZBIwM9jS3WPiNtOi+TtUVpmHcn6P5XUoXICuieic9UKUwO1SWATXO4t6BgbQOG96wrS6y/q+YOTzgYpv8Oa7NcyC0mAWdM4IP1figZjM4IWxuzbfLqjjeq9h7fj9UUgvmlyxcDtRTOUgUIlaO6TfINijGDxmsfqyTnWbmfpl0Rg2QONvjFa/VFhM4SRmwB4pVqmjLcQtNYTDftwyP8Ad+qnmL4q4IPNfb6hBHZMehOZlfpsmRntnP78f5SDSzOuvRXIhKLvLHIxx2NSS01Zk2LaMQeM8U003RBAA1/KvU7BU+33580vZSbqDPNQmjmk9JOcZwTRS/Za28zGJmcsv3e9FU+0tern1S6MrFvAOM0tivWgnUjcf7xRRS75mxLtsr+TqEqJDu5Jx481dLcxyxRvE7bz39NFFHdkuGW4HVDgnI4waKKKFr//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">The Tree of Life</div>
+                                    <div class="artist">Dark Oath</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwUD/8QALBAAAgEDBAAFAwQDAAAAAAAAAQIDAAQRBRIhMQYTQVFxFCIyFkNhkaHB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAGhEBAQEBAQEBAAAAAAAAAAAAAQACETEDIf/aAAwDAQACEQMRAD8AwmxtXku4I02AkA5ZQcHGcmr/AErw6uqmJZnLsp27yvGR1x1UbosgGpooI2kL6genua3/AMHX+k2ejoZo1iX7juJAJb596y/XSeWvBRf6Du1tplTySVPGEwcfPpxU5eaG2kTJBc2qOXGFAbJHxmt4XxBon0hMTKAOXI7x81kfjfUori/a8jJRf2gewvualjeu8Z0OdoLUY4VkZEjlhKqcrnjdRS93qLTXMxZgcgtRWw8oKXOtZxDLEDjmP7sdniqjQr+eSRdPkYtbO+5cn8W9M/IqEaYLIrLnO0elMpezNJvSQq/ZHAoaz0iNsk0Pl27rCQWC7glROvm/mLlo23bgm316J/1SthrN3LEQHbztvDZ7pK51bUkCrO86RFs78HOP4qWM8ZnXS5lxBPbSuZ02syNgHvFFLTTGdiTNJIFVvyXGB/dFXKTLkcBm66FeimLhsHf/AHRRXRuhZ3P08glyXI9lqng8SrfWb2ciNuVPtB6/z1RRU0/Zh5St2GyR5cKnn8f+0UUU5K3/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Dusk Over Fields of Ruin</div>
                                     <div class="artist">Duskmourn</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAIDBAUGAQcI/8QALBAAAQMDAwMDBAIDAAAAAAAAAQIDEQAEBRIhMRMiQQYUYTJRcYEjsSSRwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAAEDBf/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREiEFE0FR/9oADAMBAAIRAxEAPwDzNjmLRxE3S3AdafpTPbO/7j+vmrC1w7F3e29vbF1arhakIbCTrJg6APBkwPil4O1bXZpddICJ3q+9ohu2Vf27iEO2yQ4jvOpRJEaQByJncxseaXZzyIEdWoBAxlde+m7bGh4ZAvocS6kNpA+ttQJSqfOw5Ej5quFhj0uJ1qeKJVMJ3ie3zHFdhN4VVzfde6eaLWlKG0JQGwFRsNI2JIBP9CqK8xFs9mXmV3wsy32oSR3K3G5HOmDPB4qKxbrZbIqjcmUyuPtGLdC7N1a1d2oFBEAHtO/3H+qKts09alt+3ZcDq20kFSUkfvcCijQn7M7al3VM0vp/0o1f+lrO7au02zmguLW4e0c8iY/dIQw3jbNN/wBFstvudMuaAopVsTM+QDMHYis96f8AVDzGNGOc6nQH16DupP2nx+qn3Dlul5u5t1OrsSnU/wBcgjVPHIkmPG4pXi/Mhp0Wer0hk/O5Kusq01fAu+790hxDrakkBtSIkyOZ/G3NaE3pzTXXTiV6S0qHNilWkQdK+SJ+3E1kUZSz9vau3IH+Opc9Md6taUgpBMzpid9hPzUjBZy5VcIxlv7tzHgkNsNr1qSk7nxB35iKuxCV0fINFqrZxJ6MYyti1Z+nQ5oIefTrX5Jkck/8opz1g841ZON3zbzSiP423E6fiRRWlHIrrQvJepLAtZGATC2b3SdBJgfeKe92mHCqXCoQARAHzRRTJHc4wY5kkO3TDi2VlYhwaXEaSOnwNXyY3rnF5JGNecWhJccOwVMRv4oooSoIwwlsZDojubzisqw0h5ErbJhZUVGD+aKKKJUCjBJZY1h1p//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bloodstained Cross</div>
-                                    <div class="artist">Arch Enemy</div>
                                 </div>
                             </div>
                         </div>
